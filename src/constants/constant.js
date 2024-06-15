@@ -1,0 +1,1 @@
+const GRAPH_URL = "https://api.studio.thegraph.com/query/79276/newweekendgraph/v0.0.01";
